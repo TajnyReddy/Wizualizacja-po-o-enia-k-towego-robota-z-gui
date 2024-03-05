@@ -1,0 +1,1 @@
+# Wizualizacja-po-o-enia-k-towego-robota-z-gui
