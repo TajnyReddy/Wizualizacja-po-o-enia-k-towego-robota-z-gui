@@ -1,1 +1,1 @@
-# Wizualizacja-po-o-enia-k-towego-robota-z-gui
+Implementacja programu z GUI w środowisku WinAPI, który wczytuje, przetwarza i wizualizuje dane aktualnego położenia kątowego robota mobilnego. Wyświetlanie aktualnej trajektorii, zmiana wartości prędkości, timer.
